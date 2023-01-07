@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(106,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(474,32): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(104,6): warning C4101: 'number_of_elements': unreferenced local variable
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(93,7): warning C4101: 'p': unreferenced local variable
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(472,10): warning C4101: 'number_of_elements': unreferenced local variable
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(799,18): warning C4018: '>': signed/unsigned mismatch
+D:\Work\First_Semester\Task_For_The_First_Semester\Task_For_The_First_Semester\Source.cpp(799,39): warning C4018: '<': signed/unsigned mismatch
+  Task_For_The_First_Semester.vcxproj -> D:\Work\First_Semester\Task_For_The_First_Semester\x64\Debug\Task_For_The_First_Semester.exe
